@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Ankit Kumar Singh.
+- 👀 I’m interested in Coding , technical stuff and new technological changes in society.
+- 🌱 I’m currently learning C and Java.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me work.ankitkumarsingh@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The first programmer was the daughter of a mad poet. [Ada Lovelace]
+- 🎮 Game id: Call of Duty --> Captain_Cooper
